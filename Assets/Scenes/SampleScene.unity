@@ -479,7 +479,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0, g: 0, b: 0, a: 0.80784315}
+  m_Color: {r: 0, g: 0, b: 0, a: 0.9019608}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -1509,7 +1509,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6d9aeec6937ffa140b8bb3bec23ba88a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fallSpeed: 2000
+  fallSpeed: 1200
 --- !u!114 &1170705104
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1534,7 +1534,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6af8fd4772806b448892ee416db9d146, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxClicks: 5
+  maxClicks: 10
 --- !u!114 &1170705106
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1566,7 +1566,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2236621dfb5b3e3449d9153e41f18904, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  targetScore: 2000
+  targetScore: 4000
 --- !u!4 &1170705108
 Transform:
   m_ObjectHideFlags: 0
@@ -1846,7 +1846,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0, g: 0, b: 0, a: 0.80784315}
+  m_Color: {r: 0, g: 0, b: 0, a: 0.9019608}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
