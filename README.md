@@ -1,4 +1,4 @@
-# 🧩 Unity Puzzle Game – 전략 & SOLID 기반 퍼즐 게임
+# 🧩 Brick Block
 
 ![Unity](https://img.shields.io/badge/Engine-Unity-FF5C5C?logo=unity)
 ![C#](https://img.shields.io/badge/Language-C%23-178600?logo=csharp)
